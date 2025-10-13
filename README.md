@@ -1,5 +1,5 @@
 # my-seventeenth-repo
-seventeenth
+seventeent
 function isPrime(n) {
   if (n < 2) return false;
   for (let i = 2; i <= Math.sqrt(n); i++) {
